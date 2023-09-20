@@ -1,6 +1,6 @@
 {
   "name": "fake-knex-client",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fake Knex.js client",
   "main": "index.cjs",
   "type": "commonjs",
@@ -15,8 +15,7 @@
     "index.cjs",
     "index.d.cts"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "knex": "^2.5.1"
   },

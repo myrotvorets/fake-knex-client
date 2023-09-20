@@ -1,5 +1,5 @@
 {
-  "name": "fake-knex-client",
+  "name": "@myrotvorets/fake-knex-client",
   "version": "1.0.0",
   "description": "Fake Knex.js client",
   "main": "index.cjs",

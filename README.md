@@ -7,7 +7,7 @@ Fake Client for Knex.js
 ```typescript
 import * as knexpkg from 'knex';
 import mockKnex from 'mock-knex';
-import { FakeClient } from 'fake-knex-client';
+import { FakeClient } from '@myrotvorets/fake-knex-client';
 
 describe('...', function () {
     let db: knexpkg.Knex;
